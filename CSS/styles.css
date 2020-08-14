@@ -1,0 +1,153 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  font-family: 'Italianno', cursive;
+  font-size: 90px;
+
+}
+h2 {
+  color:#66BFBF;
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.description{
+  color:#66BFBF;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+p{
+
+  font-family: 'Montserrat', sans-serif;
+
+  line-height: 2;
+}
+
+h3{
+  color: #11999E;
+
+
+}
+a{
+color: #11999E;
+
+}
+
+.topdiv{
+  background-color: #222831;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+
+
+background-color: #cff6cf;
+
+}
+.bottom-container{
+background-color: #222831;
+margin-top: 50px;
+height: 100px;
+padding: 50px 0 50px 0;
+
+
+}
+.footer-link{
+  padding: 0 30px;
+}
+
+.endnote{
+  margin-top: 30px;
+  color: white;
+}
+
+.photography{
+  border-radius: 50%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.webdev{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.code{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+}
+
+
+
+
+
+
+.pro{
+  text-decoration: underline;
+}
+
+
+.intro{
+  width: 50%;
+  text-align: center;
+  margin-left: 300px;
+}
+
+.contact{
+  line-height: 2;
+  width: 50%;
+  margin-left: 300px;
+}
+.contact-desc{
+  margin-bottom: 40px;
+  }
+
+
+
+
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px  ;
+  left:300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.mountain{
+  margin-bottom: 0;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-width: 6px;
+border-color: gray;
+width:5%;
+margin: 50px auto 50px auto;
+}
+
+.endnote{
+  margin-top: 50px;
+}
